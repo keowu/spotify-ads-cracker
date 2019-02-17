@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="spotifyadblock.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="78"/>
+        <CursorPos X="16" Y="93"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="spotifyadblock.pas"/>
+        <Caret Line="16" Column="22"/>
+      </Position1>
+      <Position2>
+        <Filename Value="spotifyadblock.pas"/>
+        <Caret Column="1503"/>
+      </Position2>
+      <Position3>
+        <Filename Value="spotifyadblock.pas"/>
+        <Caret Line="26" Column="55" TopLine="3"/>
+      </Position3>
+      <Position4>
+        <Filename Value="spotifyadblock.pas"/>
+        <Caret Line="14" Column="7"/>
+      </Position4>
+      <Position5>
+        <Filename Value="spotifyadblock.pas"/>
+        <Caret Line="26" Column="5" TopLine="10"/>
+      </Position5>
+      <Position6>
+        <Filename Value="spotifyadblock.pas"/>
+        <Caret Line="24" Column="19" TopLine="11"/>
+      </Position6>
+      <Position7>
+        <Filename Value="spotifyadblock.pas"/>
+        <Caret Line="91" Column="3" TopLine="68"/>
+      </Position7>
+      <Position8>
+        <Filename Value="spotifyadblock.pas"/>
+        <Caret Line="51" Column="4" TopLine="38"/>
+      </Position8>
+      <Position9>
+        <Filename Value="spotifyadblock.pas"/>
+        <Caret Line="54" Column="11" TopLine="44"/>
+      </Position9>
+      <Position10>
+        <Filename Value="spotifyadblock.pas"/>
+        <Caret Line="58" Column="87" TopLine="47"/>
+      </Position10>
+      <Position11>
+        <Filename Value="spotifyadblock.pas"/>
+        <Caret Line="54" Column="19" TopLine="34"/>
+      </Position11>
+      <Position12>
+        <Filename Value="spotifyadblock.pas"/>
+        <Caret Line="3" Column="20"/>
+      </Position12>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
