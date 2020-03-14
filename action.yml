@@ -1,0 +1,13 @@
+name: 'spotify-ads-cracker'
+description: 'A ADS/PREMIUM Spotify Cracker.'
+author: '@Keowu - João Vitor'
+branding:
+  icon: 'play-circle'
+  color: 'green'
+inputs:
+  hosts_file:
+    description: 'Modify windows hosts file.'
+    required: true
+runs:
+  using: 'exe'
+  main: 'spotifyadblock.exe'
